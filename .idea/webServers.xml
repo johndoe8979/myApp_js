@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f388503f-49b3-4fd7-9a73-767f93500b63" name="p10web001.domain.local" url="http://172.31.10.15">
+        <fileTransfer host="172.31.10.15" port="22" privateKey="C:\project\05_mynapo\開発環境資源\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
