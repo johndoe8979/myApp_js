@@ -2,6 +2,8 @@ var net = require('net');
 var server = net.createServer();
 var readline = require('readline');
 
+console.log('test');
+
 // Server configuration
 server.maxConnections = 3;
 
